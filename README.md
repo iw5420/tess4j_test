@@ -6,7 +6,7 @@
 特色: 精確度較高, 處理上較緩慢  
 
 - 測試結果1  
-繁體中文沒有特別格式的話  
+繁體中文普通格式的話  
 精確度相當高    
 ![image](https://github.com/iw5420/tess4j_test/blob/master/src/main/resources/result/result2.PNG)
   
