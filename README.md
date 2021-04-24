@@ -10,13 +10,15 @@
 
 - 測試結果1  
 繁體中文普通格式的話  
-精確度相當高    
+精確度相當高  
+  
 ![image](https://github.com/iw5420/tess4j_test/blob/master/src/main/resources/result/result2.PNG)
   
 - 測試結果2  
 如果有中英混雜  
 又有加上數字  
 精確度將會降低  
+  
 ![image](https://github.com/iw5420/tess4j_test/blob/master/src/main/resources/result/result3.PNG)
   
   
@@ -24,7 +26,8 @@
 如果有中英混雜  
 又有加上數字  
 又加上框限的話  
-精確度會變得非常差      
+精確度會變得非常差  
+  
 ![image](https://github.com/iw5420/tess4j_test/blob/master/src/main/resources/result/result1.PNG)
   
 _目前測試結果_     
