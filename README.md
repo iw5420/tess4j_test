@@ -12,11 +12,11 @@
    
    
 ![image](https://github.com/iw5420/tess4j_test/blob/master/src/main/resources/result/result2.PNG)
-
+  
 - 測試結果2  
 ![image](https://github.com/iw5420/tess4j_test/blob/master/src/main/resources/result/result1.PNG)
-
-
+  
+  
 - 測試結果2  
 ![image](https://github.com/iw5420/tess4j_test/blob/master/src/main/resources/result/result3.PNG)
   
