@@ -24,6 +24,6 @@
 精確度會變得非常差      
 ![image](https://github.com/iw5420/tess4j_test/blob/master/src/main/resources/result/result1.PNG)
   
-*目前測試結果*     
-*如果要產生報告類型*    
-*使用一般開源套件尚不可行*    
+_目前測試結果_     
+_如果要產生報告類型_   
+_使用一般開源套件尚不可行_    
