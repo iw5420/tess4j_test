@@ -5,6 +5,9 @@
 來源: https://github.com/tesseract-ocr/tessdata_best  
 特色: 精確度較高, 處理上較緩慢  
 
+以下測試結果  
+右邊是原圖, 左邊是被轉換過後的文字  
+
 - 測試結果1  
 繁體中文普通格式的話  
 精確度相當高    
