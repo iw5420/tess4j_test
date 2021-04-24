@@ -11,9 +11,19 @@
 ![image](https://github.com/iw5420/tess4j_test/blob/master/src/main/resources/result/result2.PNG)
   
 - 測試結果2  
-![image](https://github.com/iw5420/tess4j_test/blob/master/src/main/resources/result/result1.PNG)
-  
-  
-- 測試結果2  
+如果有中英混雜  
+又有加上數字  
+精確度將會降低  
 ![image](https://github.com/iw5420/tess4j_test/blob/master/src/main/resources/result/result3.PNG)
   
+  
+- 測試結果3 
+如果有中英混雜  
+又有加上數字
+又加上框限的話
+精確度會變得非常差    
+![image](https://github.com/iw5420/tess4j_test/blob/master/src/main/resources/result/result1.PNG)
+  
+目前測試結果    
+如果要產生報告類型OCR  
+使用一般開源套件尚不可行  
